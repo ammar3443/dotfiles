@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Ammar Mustafa
+	email = 124750847+ammar3443@users.noreply.github.com
+[format]
+	signoff = true
+
+[core]
+	editor = vim
+
+[include]
+	path = ~/.config/git/private-smtp

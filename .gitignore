@@ -1,0 +1,8 @@
+.config/git/private-smtp
+.ssh/
+.gnupg/
+
+.cache/
+.local/
+
+EOF
